@@ -1,11 +1,11 @@
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
-  "description": "Simple and Easy-to-Use API Documentation",
+  "name": "Shiori Api's",
+  "version": "Lamz Devp",
+  "description": "Dokumentasi API yang Sederhana dan Mudah Digunakan",
   "header": {
     "status": "Online!",
     "imageSrc": [
-      "https://media4.giphy.com/media/l0Iy33dWjmywkCnNS/giphy.gif?cid=6c09b952p3mt40j1mgznfi9rwwtccbjl7mtc2kvfugymeinr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
+      "https://i.supa.codes/-7Misl"
     ],
     "imageSize": {
       "mobile": "80%",
@@ -14,16 +14,16 @@
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "LamzDap"
   },
   "links": [
     {
-      "name": "Source Code",
+      "name": "Kode Sumber",
       "url": "https://github.com/rynxzyy/Rynn-UI"
     },
     {
-      "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
+      "name": "Hubungi saya",
+      "url": "https://wa.me/6282123091491"
     }
   ],
   "categories": [
