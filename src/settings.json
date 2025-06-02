@@ -50,6 +50,11 @@
           "name": "Blue Archive",
           "desc": "Blue Archive Random Images",
           "path": "/random/ba"
+        },
+        {
+          "name": "Tiktod",
+          "desc": "Gtw",
+          "path": "/random/tiktod"
         }
       ]
     },
